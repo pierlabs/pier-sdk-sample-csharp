@@ -23,7 +23,7 @@ namespace ConsoleTeste
             ContaApi contaApi = new ContaApi(HOST_NAME);
             contaApi.Configuration.AddDefaultHeader("access_token", ACCESS_TOKEN_CREFISA);
             contaApi.Configuration.AddDefaultHeader("client_id", CLIENT_ID_CREFISA);
-            contaApi.Configuration.AddDefaultHeader("Host", HOST);
+            contaApi.Configuration.AddDefaultHeader("Host", HOST_PARAM);
             
             var datePatter = "yyyy-MM-dd";
             var timerPatter = "T00:00:00";
