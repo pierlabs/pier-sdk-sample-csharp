@@ -1,0 +1,12 @@
+C:\SDK_PIER\CSharp\SDK_PIER\ConsoleTeste\bin\Debug\ConsoleTeste.exe.config
+C:\SDK_PIER\CSharp\SDK_PIER\ConsoleTeste\bin\Debug\ConsoleTeste.exe
+C:\SDK_PIER\CSharp\SDK_PIER\ConsoleTeste\bin\Debug\ConsoleTeste.pdb
+C:\SDK_PIER\CSharp\SDK_PIER\ConsoleTeste\bin\Debug\SDK_PIER.dll
+C:\SDK_PIER\CSharp\SDK_PIER\ConsoleTeste\bin\Debug\Newtonsoft.Json.dll
+C:\SDK_PIER\CSharp\SDK_PIER\ConsoleTeste\bin\Debug\RestSharp.dll
+C:\SDK_PIER\CSharp\SDK_PIER\ConsoleTeste\bin\Debug\SDK_PIER.pdb
+C:\SDK_PIER\CSharp\SDK_PIER\ConsoleTeste\bin\Debug\Newtonsoft.Json.xml
+C:\SDK_PIER\CSharp\SDK_PIER\ConsoleTeste\bin\Debug\RestSharp.xml
+C:\SDK_PIER\CSharp\SDK_PIER\ConsoleTeste\obj\Debug\ConsoleTeste.csprojResolveAssemblyReference.cache
+C:\SDK_PIER\CSharp\SDK_PIER\ConsoleTeste\obj\Debug\ConsoleTeste.exe
+C:\SDK_PIER\CSharp\SDK_PIER\ConsoleTeste\obj\Debug\ConsoleTeste.pdb
